@@ -55,4 +55,3 @@ def position(t):
 fig = plt.figure(figsize=(100, 100))
 animering = ani.FuncAnimation(fig, position, interval=0.0)
 plt.show()
-#testing
